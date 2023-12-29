@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJendryczka
 - 👀 I’m interested in creating  coding and programing, (this opportunity was taking away from me sens i was a kid);
-- 🌱 I’m currently learning HTML CSS Javascript
+- 🌱 I’m currently learning .Net c# Blazor
 - 💞️ I’m looking to collaborate on any project (i need practising)
 - 📫 How to reach me - mail phone phisicaly 
 
